@@ -1,6 +1,6 @@
-Class AppController{
- Map<String, dynamic> controller={
- "adsactive":true,
+[
+{
+"adsactive":true,
  "cpaactive":true,
- };
 }
+]
